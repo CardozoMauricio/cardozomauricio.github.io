@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" type="text/css" href="css/estilos.css" />
+</head>
+<body>
+<div class="contenedor" >
+
+    <div id="principal">
+
+        <div class="header">
+             <div>
+                 <img src="imagenes/cardozo.jpg" class="mifoto"> 
+             </div>
+
+             <div class="nombre">
+             
+                <h1>Mauricio Oscar Cardozo</h1>
+             <p><b>Dirección:</b>Barrio Abel Amaya codigo 474 casa 466</p>
+             <p><b>Teléfono:</b>297-5132315</p>
+             <p><b>Email:</b>casa.dos.cardos.arg@gmail.com</p>
+        </div>
+    </div>
+
+</div>
+<br>
+<br>
+<fieldset>
+<legend>Datos personales</legend>
+<ul>
+<li><b>Nacionalidad:</b> &nbsp; Argentina</li>
+<li><b>Localidad:</b> &nbsp; Comodoro Rivadavia</li>
+<li><b>Fecha de nacimiento:</b> &nbsp; 13/10/1990</li>
+<li><b>Lugar de nacimiento:</b> &nbsp; Puerto Deseado - Santa Cruz</li>
+<li><b>Estado civil:</b> &nbsp; Soltero</li>
+</ul>
+</fieldset>
+<fieldset>
+    <legend>Experiencia Laboral</legend>
+    <ul>
+    <li><b>Ejercito Argentino:</b> &nbsp; Grupo de Artilleria Blindado n° 9</li>
+        <b>Ocupacion:</b> &nbsp; Soldado Voluntario
+    <li><b>Policia de Santa Cruz:</b> &nbsp; Unidad de Bombero 5ta</li>
+        <b>Ocupacion:</b> &nbsp; Rescate y salvamento
+    <li><b>Policia de Santa Cruz:</b> &nbsp; Division Unidad Operativa R. Santos</li>
+        <b>Ocupacion:</b> &nbsp; Agente controlador
+    </ul>
+    </fieldset>
+
+    <fieldset>
+        <legend>Estudios Cursados</legend>
+        <ul>
+        <li><b>Nivel Academico:</b> &nbsp; Secundario completo</li>
+            </ul>
+        </fieldset>
+        
+    <fieldset>
+        <legend>Cursos y Capacitaciones</legend>
+        <ul>
+        <li><b>"3er Curso Provincial de Infanteria" Policia de Santa Cruz</b></li>
+        <li><b>"Curso Idoneidad, Manejo y Entrega de Arma Reglamentaria" Policia de Santa Cruz</b></li>
+        <li><b>"Mediacion Policial y manejo de conflictos" Policia de Santa Cruz</b></li>
+        </ul>
+        </fieldset>
+
+
+
+</div>
+</body>
+</html>
